@@ -1,4 +1,4 @@
-const { pg } = require('./database')
+const pg = require('./pg')
 
 
 async function main(){
